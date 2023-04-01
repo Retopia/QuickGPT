@@ -1,4 +1,4 @@
-let OPENAI_ID = "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";
+let OPENAI_ID = "YOUR OPENAI ID HERE";
 
 function loadTesseractWorker() {
     return new Promise((resolve, reject) => {
